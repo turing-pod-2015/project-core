@@ -22,9 +22,9 @@ There are four roles you can choose from, based on availability:
 ## Teams
 
 There are five teams you can choose from (each team except public has one PM and one TL):
-* backend: everything from database management up to API creation (3x engineer, 3x QA; 8 total)
-* webdev: connect with API from backend to create a fully reactive web interface (2x engineer, 2x QA; 6 total)
-* mobile: develop Android and iOS apps for public consumption (2x engineer, 2x QA; 6 total)
+* backend: everything from database management, including accounts backend, up to API creation (3x engineer, 3x QA; 8 total)
+* frontend: connect with API from backend to create a fully reactive UI/UX on platform of choice (3x engineer, 2x QA; 6 total)
+* algo: create intelligence to handle matching of tutors to students (2x engineer, 1x QA; 5 total)
 * public: handle the public face of the company, including branding, release cycles, social media, etc. (1x TL; 1 total)
 
 TLs are also responsible for making sure their teammates are happy, and can negotiate with other TLs to handle moving teams around.
